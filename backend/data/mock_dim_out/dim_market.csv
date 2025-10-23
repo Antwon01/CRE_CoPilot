@@ -1,0 +1,6 @@
+market_key,market_id,market_name,region,legacy_flag
+1,SATX,San Antonio,South Texas,True
+2,ATX,Austin,Central Texas,True
+3,DFW,Dallas/Fort Worth,North Texas,True
+4,HOU,Houston,East Texas,True
+5,WTX,West Texas,West Texas,False

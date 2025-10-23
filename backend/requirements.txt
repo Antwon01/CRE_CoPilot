@@ -1,0 +1,18 @@
+# --- Core data and math ---
+pandas==2.2.3
+numpy==1.26.4
+
+# --- Synthetic data generation ---
+Faker==30.3.0
+
+# --- Optional: pretty console output ---
+tqdm==4.66.5
+
+# --- Optional: JSON validation and typing (future use) ---
+pydantic==2.9.2
+
+# --- Optional: for CLI runners or Databricks notebooks ---
+python-dateutil==2.9.0.post0
+
+# --- Optional (if you later turn this into a Flask API) ---
+Flask==3.0.3

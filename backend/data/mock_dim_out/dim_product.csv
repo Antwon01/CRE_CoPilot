@@ -1,0 +1,4 @@
+product_key,product_group,product_name,product_type,rate_type,base_rate
+1,MTG,Mortgage 30Y,Loan,Fixed,6.8
+2,HELOC,HELOC Variable,Loan,Variable,7.2
+3,PL,Personal Loan,Loan,Fixed,10.5

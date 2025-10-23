@@ -1,0 +1,51 @@
+branch_sk,branch_id,branch_name,market_key,address,city,state,open_date,legacy_flag,current_flag
+1,SATX-B01,San Antonio Branch 1,1,8862 Collins Ferry,San Antonio,TX,2019-01-01,True,True
+2,SATX-B02,San Antonio Branch 2,1,010 Jose Court Apt. 813,San Antonio,TX,2019-01-01,True,True
+3,SATX-B03,San Antonio Branch 3,1,77950 Ann Tunnel,San Antonio,TX,2019-01-01,True,True
+4,SATX-B04,San Antonio Branch 4,1,2439 Anthony Throughway,San Antonio,TX,2019-01-01,True,True
+5,SATX-B05,San Antonio Branch 5,1,43633 Harrison Isle,San Antonio,TX,2019-01-01,True,True
+6,SATX-B06,San Antonio Branch 6,1,320 Barbara Canyon,San Antonio,TX,2019-01-01,True,True
+7,SATX-B07,San Antonio Branch 7,1,0355 Shaw Place,San Antonio,TX,2019-01-01,True,True
+8,SATX-B08,San Antonio Branch 8,1,09532 White Squares Suite 018,San Antonio,TX,2019-01-01,True,True
+9,SATX-B09,San Antonio Branch 9,1,079 Jennifer Junctions Suite 225,San Antonio,TX,2019-01-01,True,True
+10,SATX-B10,San Antonio Branch 10,1,83473 Riley Underpass Suite 893,San Antonio,TX,2019-01-01,True,True
+11,ATX-B01,Austin Branch 1,2,3799 Patterson Heights Suite 483,Austin,TX,2019-01-01,True,True
+12,ATX-B02,Austin Branch 2,2,54237 Campbell Harbors,Austin,TX,2019-01-01,True,True
+13,ATX-B03,Austin Branch 3,2,1964 Olson Rue Apt. 291,Austin,TX,2019-01-01,True,True
+14,ATX-B04,Austin Branch 4,2,9943 Brooke Port,Austin,TX,2019-01-01,True,True
+15,ATX-B05,Austin Branch 5,2,7919 Williams Springs Suite 279,Austin,TX,2019-01-01,True,True
+16,ATX-B06,Austin Branch 6,2,90215 Thompson Motorway Apt. 945,Austin,TX,2019-01-01,True,True
+17,ATX-B07,Austin Branch 7,2,7568 Hernandez Estate Suite 919,Austin,TX,2019-01-01,True,True
+18,ATX-B08,Austin Branch 8,2,856 Flores Hill Apt. 198,Austin,TX,2019-01-01,True,True
+19,ATX-B09,Austin Branch 9,2,843 King Turnpike Suite 797,Austin,TX,2019-01-01,True,True
+20,ATX-B10,Austin Branch 10,2,9559 Michael Mountain Apt. 948,Austin,TX,2019-01-01,True,True
+21,DFW-B01,Dallas/Fort Worth Branch 1,3,2864 Rangel Parkways,Dallas,TX,2019-01-01,True,True
+22,DFW-B02,Dallas/Fort Worth Branch 2,3,0205 Kristen Rapid Suite 791,Dallas,TX,2019-01-01,True,True
+23,DFW-B03,Dallas/Fort Worth Branch 3,3,721 Williams Junction,Dallas,TX,2019-01-01,True,True
+24,DFW-B04,Dallas/Fort Worth Branch 4,3,86384 Gonzales Bridge Suite 684,Dallas,TX,2019-01-01,True,True
+25,DFW-B05,Dallas/Fort Worth Branch 5,3,987 Bond Dam Suite 156,Dallas,TX,2019-01-01,True,True
+26,DFW-B06,Dallas/Fort Worth Branch 6,3,514 James Loaf,Dallas,TX,2019-01-01,True,True
+27,DFW-B07,Dallas/Fort Worth Branch 7,3,0317 Ronald Underpass,Dallas,TX,2019-01-01,True,True
+28,DFW-B08,Dallas/Fort Worth Branch 8,3,4654 Kurt Parkway,Dallas,TX,2019-01-01,True,True
+29,DFW-B09,Dallas/Fort Worth Branch 9,3,93179 Jones Plaza,Dallas,TX,2019-01-01,True,True
+30,DFW-B10,Dallas/Fort Worth Branch 10,3,44232 Justin Grove Suite 102,Dallas,TX,2019-01-01,True,True
+31,HOU-B01,Houston Branch 1,4,729 Gary Plain,Houston,TX,2019-01-01,True,True
+32,HOU-B02,Houston Branch 2,4,334 Matthew Avenue Apt. 126,Houston,TX,2019-01-01,True,True
+33,HOU-B03,Houston Branch 3,4,003 Shannon Centers,Houston,TX,2019-01-01,True,True
+34,HOU-B04,Houston Branch 4,4,101 Pam Club Suite 223,Houston,TX,2019-01-01,True,True
+35,HOU-B05,Houston Branch 5,4,995 Pierce Creek,Houston,TX,2019-01-01,True,True
+36,HOU-B06,Houston Branch 6,4,69493 Savannah Turnpike,Houston,TX,2019-01-01,True,True
+37,HOU-B07,Houston Branch 7,4,205 Payne Drives Apt. 838,Houston,TX,2019-01-01,True,True
+38,HOU-B08,Houston Branch 8,4,624 Ann Fork,Houston,TX,2019-01-01,True,True
+39,HOU-B09,Houston Branch 9,4,6338 Flores Canyon Apt. 556,Houston,TX,2019-01-01,True,True
+40,HOU-B10,Houston Branch 10,4,32840 Ashley Trail,Houston,TX,2019-01-01,True,True
+41,WTX-B01,West Texas Branch 1,5,75841 Shannon Valleys Apt. 912,West Texas,TX,2019-01-01,False,True
+42,WTX-B02,West Texas Branch 2,5,9071 Anthony Walks,West Texas,TX,2019-01-01,False,True
+43,WTX-B03,West Texas Branch 3,5,4588 Danny Forges,West Texas,TX,2019-01-01,False,True
+44,WTX-B04,West Texas Branch 4,5,0514 Thomas Pike,West Texas,TX,2019-01-01,False,True
+45,WTX-B05,West Texas Branch 5,5,38097 James Curve,West Texas,TX,2019-01-01,False,True
+46,WTX-B06,West Texas Branch 6,5,532 Michael Viaduct,West Texas,TX,2019-01-01,False,True
+47,WTX-B07,West Texas Branch 7,5,8225 Samuel Roads Suite 733,West Texas,TX,2019-01-01,False,True
+48,WTX-B08,West Texas Branch 8,5,9879 Gina Extension,West Texas,TX,2019-01-01,False,True
+49,WTX-B09,West Texas Branch 9,5,468 Riggs Junction Apt. 348,West Texas,TX,2019-01-01,False,True
+50,WTX-B10,West Texas Branch 10,5,02890 Mary Park,West Texas,TX,2019-01-01,False,True
